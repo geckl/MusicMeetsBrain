@@ -7,8 +7,7 @@ This is where we will put a short description of our project
 [Link](./introepisode.mp3)\
 [Link](./episode1.mp3)\
 [Link](./episode2.mp3)\
-[Link](./episode3.mp3)\
-
+[Link](./episode3.mp3)
 
 
 ```markdown
