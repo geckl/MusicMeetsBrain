@@ -9,21 +9,26 @@ This is where we will put a short description of our project
 [Link](./episode2.mp3)\
 [Link](./episode3.mp3)
 
-
+Intro Episode
+[Listen Now](./introepisode.mp3)\
 ```markdown
-Syntax highlighted code block
+Episode Description
+```
 
-# Header 1
-## Header 2
-### Header 3
+Episode 1
+[Listen Now](./episode1.mp3)\
+```markdown
+Episode Description
+```
 
-- Bulleted
-- List
+Episode 2
+[Listen Now](./episode2.mp3)\
+```markdown
+Episode Description
+```
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Episode 3
+[Listen Now](./episode3.mp3)\
+```markdown
+Episode Description
 ```
