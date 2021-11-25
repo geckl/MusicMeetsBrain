@@ -4,13 +4,12 @@ This is where we will put a short description of our project
 
 ### Episode Links:
 
-[Link](./introepisode.mp3)
-[Link](./episode1.mp3)
-[Link](./episode2.mp3)
-[Link](./episode3.mp3)
+[Link](./introepisode.mp3)\
+[Link](./episode1.mp3)\
+[Link](./episode2.mp3)\
+[Link](./episode3.mp3)\
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
