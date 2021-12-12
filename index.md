@@ -1,12 +1,8 @@
 ## Music Meets Brain
 
-This is where we will put a short description of our project
+Podcast Description Goes Here
 
-### Episode Links:
-
-[Link](./episode1.mp3)\
-[Link](./episode2.mp3)\
-[Link](./episode3.mp3)
+### Episodes:
 
 
 Episode 1 | [Listen Now](./Audio/MusicMeetsBrain1.mp3)
