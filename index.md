@@ -8,10 +8,11 @@ This is where we will put a short description of our project
 [Link](./episode2.mp3)\
 [Link](./episode3.mp3)
 
-
+```markdown
 Episode 1 | [Listen Now](./episode1.mp3)
 
 > This episode introduces the concept of neuroplasticity and explores how music is used in sensorimotor rehabilitation after stroke or traumatic brain injury.
+```
 
 Episode 2 | [Listen Now](./episode2.mp3)
 ```markdown
