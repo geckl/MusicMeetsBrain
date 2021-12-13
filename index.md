@@ -1,6 +1,6 @@
 ## Music Meets Brain
 
-Podcast Description Goes Here
+Music Meets Brain is a three-part podcast series exploring the intersection of cognitive neuroscience and music therapy.
 
 ### Episodes:
 
