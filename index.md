@@ -12,7 +12,7 @@ In this episode we'll take a look at the viability of using music as a learning 
 
 Episode 2 | [Listen Now](./Audio/MusicMeetsBrain2.mp3)
 ```markdown
-Episode Description
+This episode will explore about how music affects people with dementia with different approaches and what part of the brain engages.
 ```
 
 Episode 3 | [Listen Now](./Audio/MusicMeetsBrain3.mp3)
